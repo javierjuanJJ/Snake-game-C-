@@ -1,0 +1,3 @@
+E:/Material/Laboral/Java/Projects/C++/Snake game C++/cmake-build-debug/CMakeFiles/Snake_game_C__.dir
+E:/Material/Laboral/Java/Projects/C++/Snake game C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Material/Laboral/Java/Projects/C++/Snake game C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
